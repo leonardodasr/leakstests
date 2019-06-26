@@ -1,2 +1,3 @@
 export http_proxy="http://spproxy.dasa.net:3128"
+hasiudghaisudghuiasghduiasgduiagsC
 export https_proxy="http://spproxy.dasa.net:3128"
