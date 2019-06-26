@@ -1,3 +1,3 @@
 export http_proxy="http://spproxy.dasa.net:3128"
 PalmeirasNaotemMundhasiudghaisudghuiasghduiasgduiagsC
-export https_proxy="http://spproxy.dasa.net:3128"
+LALALALALALALALAexport https_proxy="http://spproxy.dasa.net:3128"
