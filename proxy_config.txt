@@ -1,3 +1,4 @@
 export http_proxy="http://spproxy.dasa.net:3128"
 PalmeirasNaotemMundhasiudghaisudghuiasghduiasgduiagsC
+Palmeiras Nao Tem Mundial Mesmo
 LALALALALALALALAexport https_proxy="http://spproxy.dasa.net:3128"
