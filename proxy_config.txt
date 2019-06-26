@@ -1,0 +1,2 @@
+export http_proxy="http://spproxy.dasa.net:3128"
+export https_proxy="http://spproxy.dasa.net:3128"
